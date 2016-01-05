@@ -70,7 +70,7 @@ header nav a.here:active {
 }
 
 
-/*
+
 th {
   color: #edc;
   background-color: #455;
@@ -79,6 +79,7 @@ tr td {
   color: #223;
   background-color: #eb6;
 }
+
 tr.odd td {
   color: #223;
   background-color: #ec8;
@@ -89,7 +90,7 @@ tr.highlight td {
 }
 
 
-
+/*
 
 
 input.placeholder {
